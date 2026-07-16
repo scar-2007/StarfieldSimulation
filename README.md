@@ -10,4 +10,4 @@ detailed explanation [here](https://preshing.com/20170511/how-to-build-a-cmake-b
 
 ---
 ## inspiration
-(link)[https://cs.brynmawr.edu/gxk2013/examples/transformations/starfield/]
+[link](https://cs.brynmawr.edu/gxk2013/examples/transformations/starfield/)
